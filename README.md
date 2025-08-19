@@ -1,7 +1,7 @@
-# Al-Basirah – Multilingual Online Hadith Library
+# Al-Baseera – Multilingual Online Hadith Library
 
 **Project Summary:**  
-Al-Basirah is a full-featured, multilingual mobile application that provides seamless access to a wide collection of Islamic narrations (Hadith) online. The app supports **offline & online access**, enabling users to search, save, and share narrations easily.
+Al-Baseera is a full-featured, multilingual mobile application that provides seamless access to a wide collection of Islamic narrations (Hadith) online. The app supports **offline & online access**, enabling users to search, save, and share narrations easily.
 
 **Key Features:**  
 - User-Friendly UI with three main pages and four sub-pages  
@@ -15,9 +15,6 @@ Al-Basirah is a full-featured, multilingual mobile application that provides sea
 **Technical Stack:**  
 - Flutter  
 - Provider & custom state management  
-
-**Installation / APK:**  
-Download the APK from [Releases Link] or build from source.  
 
 ---
 
