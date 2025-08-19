@@ -14,7 +14,7 @@ Al-Baseera is a full-featured, multilingual mobile app providing seamless access
 - 📤 Share Functionality  
 - 🔄 Works Online & Offline
 
-**Technical Stack:** Flutter, Provider, Custom State Management
+**Technical Stack:** Flutter, Provider, Custom Architecture & State Management
 
 ### 📌 Contact & Links
 - GitHub: [https://github.com/Sedghimohammadamin/Al-Baseera](https://github.com/Sedghimohammadamin/Al-Baseera)  
@@ -37,7 +37,7 @@ Al-Baseera is a full-featured, multilingual mobile app providing seamless access
 - 📤 امکان به اشتراک‌گذاری  
 - 🔄 کار آنلاین و آفلاین
 
-**تکنولوژی:** Flutter، Provider، مدیریت وضعیت سفارشی
+**تکنولوژی:** Flutter، Provider، معماری سفارشی و مدیریت وضعیت
 
 ---
 
@@ -54,3 +54,5 @@ Al-Baseera is a full-featured, multilingual mobile app providing seamless access
 - 💾 حفظ وإدارة المفضلات  
 - 📤 إمكانية المشاركة  
 - 🔄 يعمل أونلاين وأوفلاين
+
+**التقنيات:** Flutter، Provider، هندسة مخصصة وإدارة الحالة
