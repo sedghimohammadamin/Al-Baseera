@@ -1,22 +1,56 @@
-# Al-Baseera – Multilingual Online Hadith Library
+# 🌟 Al-Baseera / بصیرت / البصيرة
+
+## 🇬🇧 English Version
 
 **Project Summary:**  
-Al-Baseera is a full-featured, multilingual mobile application that provides seamless access to a wide collection of Islamic narrations (Hadith) online. The app supports **offline & online access**, enabling users to search, save, and share narrations easily.
+Al-Baseera is a full-featured, multilingual mobile app providing seamless access to a wide collection of content. Works online & offline.
 
 **Key Features:**  
-- User-Friendly UI with three main pages and four sub-pages  
-- Splash Screen for engaging app launch  
-- Multilingual support in **5 languages**  
-- Advanced search to quickly find Hadith  
-- Save and manage favorites  
-- Share Hadith with others  
-- Works online & offline using hybrid data system  
+- 🌟 User-Friendly UI  
+- 🚀 Splash Screen  
+- 🌐 Multilingual Support: 5 languages  
+- 🔍 Advanced Search  
+- 💾 Save & Manage Favorites  
+- 📤 Share Functionality  
+- 🔄 Works Online & Offline
 
-**Technical Stack:**  
-- Flutter  
-- Provider & custom state management  
+**Technical Stack:** Flutter, Provider, Custom State Management
+
+### 📌 Contact & Links
+- GitHub: [https://github.com/Sedghimohammadamin/Al-Baseera](https://github.com/Sedghimohammadamin/Al-Baseera)  
+- Telegram: [@Sedghimohammadamin](https://t.me/Sedghimohammadamin)  
+- Email: Sedghi.mohammadamin2008@gmail.com
 
 ---
 
-## 📌 License
-This project uses the **MIT License**. You are free to use, copy, modify, merge, and distribute it, provided you give proper credit.
+## 🇮🇷 نسخه فارسی
+
+**خلاصه پروژه:**  
+«بصیرت» یک اپلیکیشن کامل و چندزبانه برای دسترسی به محتوای گسترده است. هم آنلاین و هم آفلاین کار می‌کند.
+
+**ویژگی‌ها:**  
+- 🌟 طراحی کاربرپسند  
+- 🚀 اسپلش اسکرین  
+- 🌐 پشتیبانی چندزبانه: ۵ زبان  
+- 🔍 جستجوی پیشرفته  
+- 💾 ذخیره و مدیریت موردعلاقه‌ها  
+- 📤 امکان به اشتراک‌گذاری  
+- 🔄 کار آنلاین و آفلاین
+
+**تکنولوژی:** Flutter، Provider، مدیریت وضعیت سفارشی
+
+---
+
+## 🇸🇦 النسخة العربية
+
+**ملخص المشروع:**  
+«البصيرة» تطبيق متعدد اللغات للوصول إلى محتوى واسع، يعمل أونلاين وأوفلاين.
+
+**المميزات:**  
+- 🌟 واجهة سهلة الاستخدام  
+- 🚀 شاشة البداية  
+- 🌐 دعم متعدد اللغات: ٥ لغات  
+- 🔍 بحث متقدم  
+- 💾 حفظ وإدارة المفضلات  
+- 📤 إمكانية المشاركة  
+- 🔄 يعمل أونلاين وأوفلاين
