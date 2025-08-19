@@ -1,0 +1,4 @@
+unzip images.zip -d images/
+git add images/
+git commit -m "Extract images from ZIP"
+git push origin main
