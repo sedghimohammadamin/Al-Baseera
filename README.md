@@ -62,8 +62,8 @@ Al-Baseera is a full-featured, multilingual mobile app providing seamless access
 
 | Main Menu | Languages | Search |
 |-----------|-----------|--------|
-| ![MainMenu](https://github.com/Sedghimohammadamin/Albaseera/blob/main/screenshots/MainMenu.png?raw=true) | ![Languages](https://github.com/Sedghimohammadamin/Albaseera/blob/main/screenshots/Languages.png?raw=true) | ![SearchPage](https://github.com/Sedghimohammadamin/Albaseera/blob/main/screenshots/SearchPage.png?raw=true) |
+| ![MainMenu](https://github.com/Sedghimohammadamin/Albaseera/screenshots/MainMenu.png?raw=true) | ![Languages](https://github.com/Sedghimohammadamin/Albaseera/screenshots/Languages.png?raw=true) | ![SearchPage](https://github.com/Sedghimohammadamin/Albaseera/screenshots/SearchPage.png?raw=true) |
 
 | Favorites | Hadith Page | Hadith Page (Arabic) |
 |-----------|-------------|----------------------|
-| ![Favorites](https://github.com/Sedghimohammadamin/Albaseera/blob/main/screenshots/Favorites.png?raw=true) | ![HadithPage](https://github.com/Sedghimohammadamin/Albaseera/blob/main/screenshots/HadithPage.png?raw=true) | ![HadithPageArabic](https://github.com/Sedghimohammadamin/Albaseera/blob/main/screenshots/HadithPageArabic.png?raw=true) |
+| ![Favorites](https://github.com/Sedghimohammadamin/Albaseera/screenshots/Favorites.png?raw=true) | ![HadithPage](https://github.com/Sedghimohammadamin/Albaseera/screenshots/HadithPage.png?raw=true) | ![HadithPageArabic](https://github.com/Sedghimohammadamin/Albaseera/screenshots/HadithPageArabic.png?raw=true) |
