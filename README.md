@@ -56,3 +56,55 @@ Al-Baseera is a full-featured, multilingual mobile app providing seamless access
 - 🔄 يعمل أونلاين وأوفلاين
 
 **التقنيات:** Flutter، Provider، هندسة مخصصة وإدارة الحالة
+
+
+---
+
+## 📸 Screenshots | اسکرین‌شات‌ها | لقطات الشاشة
+
+### 🇬🇧 English
+<p align="center">
+  <img src="screenshot/MainMenu.png" alt="Main Menu" width="250"/>
+  <br/>Main Menu
+</p>
+
+<p align="center">
+  <img src="screenshot/Languages.png" alt="Languages" width="250"/>
+  <br/>Languages Page
+</p>
+
+<p align="center">
+  <img src="screenshot/HadithPage.png" alt="Hadith Page" width="250"/>
+  <br/>Hadith Page
+</p>
+
+---
+
+### 🇮🇷 فارسی
+<p align="center">
+  <img src="screenshot/HadithPageArabic.png" alt="صفحه حدیث" width="250"/>
+  <br/>صفحه حدیث
+</p>
+
+<p align="center">
+  <img src="screenshot/SearchPage.png" alt="صفحه جستجو" width="250"/>
+  <br/>صفحه جستجو
+</p>
+
+<p align="center">
+  <img src="screenshot/Favorites.png" alt="موردعلاقه‌ها" width="250"/>
+  <br/>موردعلاقه‌ها
+</p>
+
+---
+
+### 🇸🇦 العربية
+<p align="center">
+  <img src="screenshot/Languages.png" alt="اللغات" width="250"/>
+  <br/>صفحة اللغات
+</p>
+
+<p align="center">
+  <img src="screenshot/MainMenu.png" alt="القائمة الرئيسية" width="250"/>
+  <br/>القائمة الرئيسية
+</p>
