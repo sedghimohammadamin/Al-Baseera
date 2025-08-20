@@ -62,7 +62,12 @@ Al-Baseera is a full-featured, multilingual mobile app providing seamless access
 
 | Main Menu | Languages | Search |
 |-----------|-----------|--------|
-| ![MainMenu](https://github.com/Sedghimohammadamin/Albaseera/screenshots/MainMenu.png?raw=true) | ![Languages](https://github.com/Sedghimohammadamin/Albaseera/screenshots/Languages.png?raw=true) | ![SearchPage](https://github.com/Sedghimohammadamin/Albaseera/screenshots/SearchPage.png?raw=true) |
+| ![MainMenu](https://github.com/Sedghimohammadamin/Al-Baseera/screenshots/MainMenu.png?raw=true)
+![Languages](https://github.com/Sedghimohammadamin/Al-Baseera/screenshots/Languages.png?raw=true)
+![SearchPage](https://github.com/Sedghimohammadamin/Al-Baseera/screenshots/SearchPage.png?raw=true)
+![Favorites](https://github.com/Sedghimohammadamin/Al-Baseera/screenshots/Favorites.png?raw=true)
+![HadithPage](https://github.com/Sedghimohammadamin/Al-Baseera/screenshots/HadithPage.png?raw=true)
+![HadithPageArabic](https://github.com/Sedghimohammadamin/Al-Baseera/screenshots/HadithPageArabic.png?raw=true)
 
 | Favorites | Hadith Page | Hadith Page (Arabic) |
 |-----------|-------------|----------------------|
