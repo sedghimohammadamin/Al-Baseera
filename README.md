@@ -61,103 +61,12 @@ Al-Baseera is a full-featured, multilingual mobile app providing seamless access
 
 
 
----
-
 ## 📸 Screenshots | اسکرین‌شات‌ها | لقطات الشاشة
 
-### 🇬🇧 English
-<p align="center">
-  <img src="https://github.com/sedghimohammadamin/Al-Baseera/blob/main/screenshots/MainMenu.png" alt="Main Menu" width="250"/>
-  <br/>Main Menu
-</p>
+| Main Menu | Languages | Search Page |
+|-----------|-----------|-------------|
+| ![MainMenu](https://github.com/sedghimohammadamin/Al-Baseera/blob/main/screenshots/MainMenu.png) | ![Languages](https://github.com/sedghimohammadamin/Al-Baseera/blob/main/screenshots/Languages.png) | ![SearchPage](https://github.com/sedghimohammadamin/Al-Baseera/blob/main/screenshots/SearchPage.png) |
 
-<p align="center">
-  <img src="https://github.com/sedghimohammadamin/Al-Baseera/blob/main/screenshots/Languages.png" alt="Languages" width="250"/>
-  <br/>Languages Page
-</p>
-
-<p align="center">
-  <img src="https://github.com/sedghimohammadamin/Al-Baseera/blob/main/screenshots/SearchPage.png" alt="Search Page" width="250"/>
-  <br/>Search Page
-</p>
-
-<p align="center">
-  <img src="https://github.com/sedghimohammadamin/Al-Baseera/blob/main/screenshots/Favorites.png" alt="Favorites" width="250"/>
-  <br/>Favorites
-</p>
-
-<p align="center">
-  <img src="https://github.com/sedghimohammadamin/Al-Baseera/blob/main/screenshots/HadithPage.png" alt="Hadith Page" width="250"/>
-  <br/>Hadith Page
-</p>
-
-<p align="center">
-  <img src="https://github.com/sedghimohammadamin/Al-Baseera/blob/main/screenshots/HadithPageArabic.png" alt="Hadith Page Arabic" width="250"/>
-  <br/>Hadith Page (Arabic)
-</p>
-
----
-
-### 🇮🇷 فارسی
-<p align="center">
-  <img src="https://github.com/sedghimohammadamin/Al-Baseera/blob/main/screenshots/MainMenu.png" alt="صفحه اصلی" width="250"/>
-  <br/>صفحه اصلی
-</p>
-
-<p align="center">
-  <img src="https://github.com/sedghimohammadamin/Al-Baseera/blob/main/screenshots/Languages.png" alt="صفحه زبان‌ها" width="250"/>
-  <br/>صفحه زبان‌ها
-</p>
-
-<p align="center">
-  <img src="https://github.com/sedghimohammadamin/Al-Baseera/blob/main/screenshots/SearchPage.png" alt="صفحه جستجو" width="250"/>
-  <br/>صفحه جستجو
-</p>
-
-<p align="center">
-  <img src="https://github.com/sedghimohammadamin/Al-Baseera/blob/main/screenshots/Favorites.png" alt="موردعلاقه‌ها" width="250"/>
-  <br/>موردعلاقه‌ها
-</p>
-
-<p align="center">
-  <img src="https://github.com/sedghimohammadamin/Al-Baseera/blob/main/screenshots/HadithPage.png" alt="صفحه حدیث" width="250"/>
-  <br/>صفحه حدیث
-</p>
-
-<p align="center">
-  <img src="https://github.com/sedghimohammadamin/Al-Baseera/blob/main/screenshots/HadithPageArabic.png" alt="صفحه حدیث عربی" width="250"/>
-  <br/>صفحه حدیث عربی
-</p>
-
----
-
-### 🇸🇦 العربية
-<p align="center">
-  <img src="https://github.com/sedghimohammadamin/Al-Baseera/blob/main/screenshots/MainMenu.png" alt="القائمة الرئيسية" width="250"/>
-  <br/>القائمة الرئيسية
-</p>
-
-<p align="center">
-  <img src="https://github.com/sedghimohammadamin/Al-Baseera/blob/main/screenshots/Languages.png" alt="صفحة اللغات" width="250"/>
-  <br/>صفحة اللغات
-</p>
-
-<p align="center">
-  <img src="https://github.com/sedghimohammadamin/Al-Baseera/blob/main/screenshots/SearchPage.png" alt="صفحة البحث" width="250"/>
-  <br/>صفحة البحث
-</p>
-
-<p align="center">
-  <img src="https://github.com/sedghimohammadamin/Al-Baseera/blob/main/screenshots/Favorites.png" alt="المفضلات" width="250"/>
-  <br/>المفضلات
-</p>
-
-<p align="center">
-  <img src="https://github.com/sedghimohammadamin/Al-Baseera/blob/main/screenshots/HadithPage.png" alt="صفحة الحديث" width="250"/>
-  <br/>صفحة الحديث
-</p>
-
-<p align="center">
-  <img src="https://github.com/sedghimohammadamin/Al-Baseera/blob/main/screenshots/HadithPageArabic.png" alt="صفحة الحديث بالعربية" width="250"/>
-  <br/>صفحة الحديث بالعربية
-</p>
+| Favorites | Hadith Page | Hadith Page Arabic |
+|-----------|-------------|------------------|
+| ![Favorites](https://github.com/sedghimohammadamin/Al-Baseera/blob/main/screenshots/Favorites.png) | ![HadithPage](https://github.com/sedghimohammadamin/Al-Baseera/blob/main/screenshots/HadithPage.png) | ![HadithPageArabic](https://github.com/sedghimohammadamin/Al-Baseera/blob/main/screenshots/HadithPageArabic.png) |
